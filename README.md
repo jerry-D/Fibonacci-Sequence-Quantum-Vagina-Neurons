@@ -7,4 +7,9 @@
 
 ![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Example_diagram.png)
 
+## Ultra-Coherent 14-Dendrite Bidirectional Fibonacci Sequence "Sunflower" Neural Network Energized by Quantum Entangled Electron Pairs
+
+
+## Ultra-Coherent 30-Dendrite Bidirectional Fibonacci Sequence “Quantum Vagina” Neural Network Energized by Quantum Entangled Electron Pairs
+
 ![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Example_pyramid_30.png)
