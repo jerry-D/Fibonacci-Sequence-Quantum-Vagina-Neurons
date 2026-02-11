@@ -15,6 +15,11 @@
 
 ![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Example_pyramid_30.png)
 
+
 ## Low Cost Experimental Quantum Vagina Lead Frame / Chip Carrier on Standard Fiberglass PCB
+
+![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/example_PCB_copper.jpg)
+
+## Mock Assembly
 
 ![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Proto_2_b.jpg)
