@@ -22,7 +22,7 @@
 
 ## Mock Assembly
 
-![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Proto_2_b.jpg)
+![](https://github.com/jerry-D/Fibonacci-Sequence-Quantum-Vagina-Neurons/blob/main/Proto_2_b.png)
 
 ## Official "TH0Chip" Remote Viewer Cap (Camo)
 
